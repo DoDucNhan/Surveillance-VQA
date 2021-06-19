@@ -1,0 +1,43 @@
+question	answer	video_id	action	class
+who is assaulting ?	the man wearing black shirt	assault15	assault	1
+who hit by hand ?	the man wearing a black shirt	assault15	assault	1
+who is assaulting ?	the man wearing white t-shirt	assault16	assault	1
+who is assaulting ?	the man wearing black pants	assault17	assault	1
+who hit by hand ?	the man wearing black pants	assault17	assault	1
+who is assaulting ?	the man wearing black pants	assault18	assault	1
+who has a rod ?	the man wearing black pants	assault18	assault	1
+who is assaulting ?	the man wearing black t-shirt	assault19	assault	1
+who hit by hand ?	the man wearing black t-shirt	assault19	assault	1
+who is standing by the wall ?	the man wearing sleeveless shirt	assault19	assault	1
+who is assaulting ?	the man wearing white sleeveless shirt	assault20	assault	1
+who is falling ?	the man wearing blue t-shirt	fall15	fall	1
+who is falling ?	the man wearing white t-shirt	fall16	fall	1
+who is falling ?	the woman wearing blue t-shirt	fall17	fall	1
+who ride a motorcycle ?	the woman wearing sleeveless pink t-shirt	fall17	fall	1
+who is falling ?	the man wearing black t-shirt	fall18	fall	1
+who is standing by a wall ?	the man wearing blue t-shirt	fall18	fall	1
+who is falling  ?	the man wearing black t-shirt	fall19	fall	1
+who is falling ?	the man wearing black shirt	fall20	fall	1
+who is fighting ?	the man wearing white t-shirt	fight15	fight	1
+who is fighting ?	the man wearing black t-shirt	fight16	fight	1
+who hit by hand ?	the man wearing black hat	fight16	fight	1
+who is standing by the door ?	the man wearing black suit	fight16	fight	1
+who is standing by a car ?	the man wearing black hat	fight16	fight	1
+who is fighting ?	the man wearing black t-shirt	fight17	fight	1
+who is fighting ?	the man wearing blue t-shirt	fight18	fight	1
+who hit by hand ?	the man wearing white t-shirt	fight19	fight	1
+who is fighting ?	the man wearing white pants	fight20	fight	1
+who hit by hand ?	the man wearing white pants	fight20	fight	1
+who is shooting ?	the man wearing white t-shirt	shoot15	shoot	1
+who has a gun ?	the man wearing white t-shirt	shoot15	shoot	1
+who is shooting ?	the man wearing black t-shirt	shoot16	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot16	shoot	1
+who is standing by a car ?	the man wearing black t-shirt	shoot16	shoot	1
+who is shooting ?	the man wearing black t-shirt	shoot17	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot17	shoot	1
+who is standing ?	the man wearing black t-shirt	shoot17	shoot	1
+who is shooting ?	the man wearing white t-shirt	shoot19	shoot	1
+who has a gun ?	the man wearing white t-shirt	shoot19	shoot	1
+who is shooting ?	the man wearing white helmet	shoot20	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot20	shoot	1
+who is opening the door ?	the man wearing white t-shirt	shoot20	shoot	1
