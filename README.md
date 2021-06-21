@@ -2,7 +2,7 @@
 
 Đây là phần source code tham khảo từ bài báo [Location-aware Graph Convolutional Networks for Video Question Answering](https://arxiv.org/abs/2008.09105) để chạy trên tập dữ liệu về giám sát an ninh do nhóm xây dựng nên.
 
-Khuyến khích chạy colab nếu máy có gpu, xem thêm hướng dẫn chạy trên colab tại [đây](https://colab.research.google.com/drive/1LCggpvJd6jQ9bm2VJ0EaEzplZYelLGYw)
+Khuyến khích chạy colab nếu máy không có GPU, xem thêm hướng dẫn chạy trên colab tại [đây](https://colab.research.google.com/drive/1LCggpvJd6jQ9bm2VJ0EaEzplZYelLGYw)
 
 ## Thiết lập
 1. Tải code về máy
