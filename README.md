@@ -1,4 +1,4 @@
-# L-GCN for Surveillance Video-QA Dataset
+# L-GCN on Surveillance Video-QA Dataset
 
 Đây là phần source code tham khảo từ bài báo [Location-aware Graph Convolutional Networks for Video Question Answering](https://arxiv.org/abs/2008.09105) để chạy trên tập dữ liệu về giám sát an ninh do nhóm xây dựng nên.
 
