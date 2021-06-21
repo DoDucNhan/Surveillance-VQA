@@ -5,7 +5,7 @@
 ## Thiết lập
 1. Tải code về máy
 ```
- git clone https://github.com/DoDucNhan/Thesis-code.git
+ git clone https://github.com/DoDucNhan/Surveilllance-VQA.git
 ```
 
 2. Tải tập dữ liệu giám sát của nhóm [SNN-QA]() về máy, sau đó để các video vào thư mục theo đường dẫn `L-GCN/data/snn`. Những file chứa câu hỏi đã có sẵn trong đường dẫn `L-GCN/data/dataset`.
