@@ -93,11 +93,11 @@ Tập dữ liệu của nhóm có thể chia làm bốn loại dựa trên nội
 python -m scripts.build_snn_questionType -t frameqa -o cache/snn -q Action
 ```
 
-- `-q` chính là loại câu hỏi muốn tiền xử lý, có thể thay bằng `Human` hoặc `Location` hoặc `Time`.
+- `-q` chính là loại câu hỏi muốn tiền xử lý, có thể thay bằng `Human/Location/Time`.
 
 2. Đánh giá trên loại câu hỏi đã tiền xử lý
 ```
 python testQA.py -e result -c config/resnet152-bbox/frameqa.conf -q Action
 ```
 
-- `-q` chính là loại câu hỏi muốn tiền xử lý, có thể thay bằng `Human` hoặc `Location` hoặc `Time`.
+- `-q` chính là loại câu hỏi muốn đánh giá, có thể thay bằng `Human/Location/Time`.
