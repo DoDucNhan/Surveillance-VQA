@@ -1,4 +1,4 @@
-# Thesis-code
+# L-GCN for Surveillance Video-QA Dataset
 
 Đây là phần source code tham khảo từ bài báo [Location-aware Graph Convolutional Networks for Video Question Answering](https://arxiv.org/abs/2008.09105) để chạy trên tập dữ liệu về giám sát an ninh do nhóm xây dựng nên.
 
@@ -8,7 +8,7 @@
  git clone https://github.com/DoDucNhan/Thesis-code.git
 ```
 
-2. Tải tập dữ liệu của nhóm về [SNN-QA](), sau đó để các video vào thư mục theo đường dẫn `L-GCN/data/snn`. Những file chứa câu hỏi đã có sẵn trong đường dẫn `L-GCN/data/dataset`.
+2. Tải tập dữ liệu giám sát của nhóm [SNN-QA]() về máy, sau đó để các video vào thư mục theo đường dẫn `L-GCN/data/snn`. Những file chứa câu hỏi đã có sẵn trong đường dẫn `L-GCN/data/dataset`.
 
 3. Cài đặt Mask R-CNN theo hướng dẫn ở [đây](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/INSTALL.md)
 
