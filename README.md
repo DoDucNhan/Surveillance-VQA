@@ -10,7 +10,7 @@ Khuyến khích chạy mô hình trên Google Colab nếu máy không có GPU, x
  git clone https://github.com/DoDucNhan/Surveilllance-VQA.git
 ```
 
-2. Tải tập dữ liệu giám sát của nhóm [SNN-QA](https://drive.google.com/file/d/1MuEtb_FVnJFfZ33gPI0SLMcxUoXf50NF/view?usp=sharing) về máy, sau đó để các video vào thư mục theo đường dẫn `L-GCN/data/snn/video`. Những file chứa câu hỏi đã có sẵn trong đường dẫn `L-GCN/data/dataset`.
+2. Tải tập dữ liệu giám sát của nhóm [SNN-QA](https://drive.google.com/file/d/1MuEtb_FVnJFfZ33gPI0SLMcxUoXf50NF/view?usp=sharing) về máy, sau đó để các video vào thư mục theo đường dẫn `L-GCN/data/snn/video`. Những file chứa tập hỏi-đáp đã có sẵn trong đường dẫn `L-GCN/data/dataset`. Tập hỏi đáp này là tập `withoutUnknown`. Bạn đọc có thể chạy tập dữ liệu `withUnknown` bằng cách sao chép từ đường dẫn `withUnknownDataset/` vào thư mục hiện hành.
 
 3. Cài đặt Mask R-CNN theo hướng dẫn ở [đây](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/INSTALL.md)
 
