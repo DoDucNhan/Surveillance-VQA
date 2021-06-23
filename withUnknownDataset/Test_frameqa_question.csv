@@ -1,0 +1,417 @@
+question	answer	video_id	action	class
+does the video have assault ?	yes	assault15	assault	0
+does the video have shooting ?	no	assault15	assault	0
+what is the man wearing black shirt doing ?	assaulting	assault15	assault	0
+what is the man wearing white t-shirt doing?	unknown	assault15	assault	0
+who is assaulting ?	the man wearing black shirt	assault15	assault	1
+who is falling ?	unknown	assault15	assault	1
+who hit by hand ?	the man wearing a black shirt	assault15	assault	1
+who hit with a rod?	unknown	assault15	assault	1
+when does the assaulting happen ?	daytime	assault15	assault	2
+when does fighting happen ?	unknown	assault15	assault	2
+does the video happen night-time ?	no	assault15	assault	2
+does the video happen daytime ?	yes	assault15	assault	2
+where does the assaulting happen ?	outdoor	assault15	assault	3
+where does the falling happen ?	unknown	assault15	assault	3
+does the video happen indoor ?	no	assault15	assault	3
+does the video happen outdoor ?	yes	assault15	assault	3
+does the video have assault ?	yes	assault16	assault	0
+does the video have falling ?	no	assault16	assault	0
+what is the man wearing a white t-shirt doing ?	assaulting	assault16	assault	0
+what is the man wearing pink shirt doing?	unknown	assault16	assault	0
+who is assaulting ?	the man wearing white t-shirt	assault16	assault	1
+who is falling ?	unknown	assault16	assault	1
+when does the assaulting happen ?	daytime	assault16	assault	2
+when does the fighting happen ?	unknown	assault16	assault	2
+does the video happen night-time ?	no	assault16	assault	2
+does the video happen daytime ?	yes	assault16	assault	2
+where does the assaulting happen ?	outdoor	assault16	assault	3
+where does the shooting happen ?	unknown	assault16	assault	3
+does the video happen indoor ?	no	assault16	assault	3
+does the video happen indoor ?	yes	assault16	assault	3
+does the video have assault ?	yes	assault17	assault	0
+does the video have shooting?	no	assault17	assault	0
+what is the man wearing black pants doing ?	assaulting	assault17	assault	0
+what is the man wearing nothing doing ?	assaulted	assault17	assault	0
+what is the man wearing helmet doing?	unknown	assault17	assault	0
+what is the man wearing white hat doing?	unknown	assault17	assault	0
+who is assaulting ?	the man wearing black pants	assault17	assault	1
+who is fighting ?	unknown	assault17	assault	1
+who hit by hand ?	the man wearing black pants	assault17	assault	1
+who has a gun ?	unknown	assault17	assault	1
+when does the assaulting happen ?	night-time	assault17	assault	2
+when does the fighting happen ?	unknown	assault17	assault	2
+does the video happen daytime ?	no	assault17	assault	2
+does the video happen night-time ?	yes	assault17	assault	2
+where does the assaulting happen ?	indoor	assault17	assault	3
+where does the shooting happen ?	unknown	assault17	assault	3
+does the video happen outdoor ?	no	assault17	assault	3
+does the video happen indoor ?	yes	assault17	assault	3
+does the video have assault ?	yes	assault18	assault	0
+does the video have fighting?	no	assault18	assault	0
+what is the man wearing black pants doing ?	assaulting	assault18	assault	0
+what is the woman wearing green skirt doing ?	assaulted	assault18	assault	0
+what is the man wearing white t-shirt doing?	unknown	assault18	assault	0
+what is the man wearing green t-shirt doing?	unknown	assault18	assault	0
+who is assaulting ?	the man wearing black pants	assault18	assault	1
+who is fighting?	unknown	assault18	assault	1
+who has a rod ?	the man wearing black pants	assault18	assault	1
+who has a gun?	unknown	assault18	assault	1
+when does the assaulting happen ?	daytime	assault18	assault	2
+when does the fighting happen ?	unknown	assault18	assault	2
+does the video happen night-time ?	no	assault18	assault	2
+does the video happen daytime ?	yes	assault18	assault	2
+where does the assaulting happen ?	outdoor	assault18	assault	3
+where does the shooting happen ?	unknown	assault18	assault	3
+does the video happen indoor ?	no	assault18	assault	3
+does the video happen outdoor ?	yes	assault18	assault	3
+does the video have assault ?	yes	assault19	assault	0
+does the video have fighting?	no	assault19	assault	0
+what is the man wearing black t-shirt doing ?	assaulting	assault19	assault	0
+what is the man wearing sleeveless shirt doing ?	falling	assault19	assault	0
+what is the man wearing blue t-shirt doing?	unknown	assault19	assault	0
+what is the woman wearing green skirt doing?	unknown	assault19	assault	0
+who is assaulting ?	the man wearing black t-shirt	assault19	assault	1
+who is fighting?	unknown	assault19	assault	1
+who hit by hand ?	the man wearing black t-shirt	assault19	assault	1
+who hit by rod ?	unknown	assault19	assault	1
+who is standing by the wall ?	the man wearing sleeveless shirt	assault19	assault	1
+who is standing by a car ?	unknown	assault19	assault	1
+when does the assaulting happen ?	daytime	assault19	assault	2
+when does the fighting happen ?	unknown	assault19	assault	2
+does the video happen night-time ?	no	assault19	assault	2
+does the video happen daytime ?	yes	assault19	assault	2
+where does the assaulting happen ?	outdoor	assault19	assault	3
+where does the shooting happen ?	unknown	assault19	assault	3
+does the video happen indoor ?	no	assault19	assault	3
+does the video happen outdoor ?	yes	assault19	assault	3
+does the video have assault ?	yes	assault20	assault	0
+does the video have shooting ?	no	assault20	assault	0
+what is the man wearing white sleeveless shirt doing ?	assaulting	assault20	assault	0
+what is the man wearing white hat doing?	unknown	assault20	assault	0
+who is assaulting ?	the man wearing white sleeveless shirt	assault20	assault	1
+who is falling ?	unknown	assault20	assault	1
+when does the assaulting happen ?	night-time	assault20	assault	2
+when does the shooting happen ?	unknown	assault20	assault	2
+does the video happen daytime ?	no	assault20	assault	2
+does the video happen night-time ?	yes	assault20	assault	2
+where does the assaulting happen ?	outdoor	assault20	assault	3
+where does the falling happen ?	unknown	assault20	assault	3
+does the video happen indoor ?	no	assault20	assault	3
+does the video happen outdoor ?	yes	assault20	assault	3
+does the video have fall ?	yes	fall15	fall	0
+does the video have assault ?	no	fall15	fall	0
+what is the man wearing blue t-shirt doing ?	falling	fall15	fall	0
+what is the man wearing short pants doing ?	falling	fall15	fall	0
+what is the man wearing an helmet doing?	unknown	fall15	fall	0
+what is the woman wearing green skirt doing?	unknown	fall15	fall	0
+who is falling ?	the man wearing blue t-shirt	fall15	fall	1
+who is fighting ?	unknown	fall15	fall	1
+when does the fall happen ?	daytime	fall15	fall	2
+when does the fight happen ?	unknown	fall15	fall	2
+does the video happen night-time ?	no	fall15	fall	2
+does the video happen daytime ?	yes	fall15	fall	2
+where does the man fall ?	ground	fall15	fall	3
+where does the fall happen ?	indoor	fall15	fall	3
+where does the shooting happen ?	unknown	fall15	fall	3
+does the video happen outdoor ?	no	fall15	fall	3
+does the video happen indoor ?	yes	fall15	fall	3
+does the video have fall ?	yes	fall16	fall	0
+does the video have shooting ?	no	fall16	fall	0
+what is the man wearing white t-shirt doing ?	falling	fall16	fall	0
+what is the man wearing gray pants doing ?	falling	fall16	fall	0
+what is the man wearing blue t-shirt doing?	unknown	fall16	fall	0
+what is the woman wearing white hat doing?	unknown	fall16	fall	0
+who is falling ?	the man wearing white t-shirt	fall16	fall	1
+who is shooting ?	unknown	fall16	fall	1
+when does the fall happen ?	daytime	fall16	fall	2
+when does the fight happen ?	unknown	fall16	fall	2
+does the video happen night-time ?	no	fall16	fall	2
+does the video happen daytime ?	yes	fall16	fall	2
+where does the man fall ?	ground	fall16	fall	3
+where does the fall happen ?	indoor	fall16	fall	3
+where does the assault happen ?	unknown	fall16	fall	3
+does the video happen outdoor ?	no	fall16	fall	3
+does the video happen indoor  ?	yes	fall16	fall	3
+does the video have fall ?	yes	fall17	fall	0
+does the video have fighting ?	no	fall17	fall	0
+what is the woman wearing blue t-shirt doing ?	falling	fall17	fall	0
+what is the woman wearing sleeveless pink shirt doing ?	falling	fall17	fall	0
+what is the man wearing black t-shirt doing?	unknown	fall17	fall	0
+what is the man wearing white t-shirt doing?	unknown	fall17	fall	0
+who is falling ?	the woman wearing blue t-shirt	fall17	fall	1
+who is fighting ?	unknown	fall17	fall	1
+who ride a motorcycle ?	the woman wearing sleeveless pink t-shirt	fall17	fall	1
+who is standing by a wall ?	unknown	fall17	fall	1
+when does the fall happen ?	daytime	fall17	fall	2
+when does the fighting happen ?	unknown	fall17	fall	2
+does the video happen night-time ?	no	fall17	fall	2
+does the video happen daytime ?	yes	fall17	fall	2
+where does the fall happen ?	outdoor	fall17	fall	3
+where does the fight happen ?	unknown	fall17	fall	3
+does the video happen indoor ?	no	fall17	fall	3
+does the video happen outdoor ?	yes	fall17	fall	3
+where does the woman fall ?	ground	fall17	fall	3
+does the video have fall ?	yes	fall18	fall	0
+does the video have shooting ?	no	fall18	fall	0
+what is the man wearing blue t-shirt doing ?	falling	fall18	fall	0
+what is the man wearing gray pants doing ?	falling	fall18	fall	0
+what is the man wearing white hat doing?	unknown	fall18	fall	0
+what is the woman wearing blue t-shirt doing?	unknown	fall18	fall	0
+who is falling ?	the man wearing black t-shirt	fall18	fall	1
+who is shooting ?	unknown	fall18	fall	1
+who has a rod  ?	unknown	fall18	fall	1
+who is standing by a wall ?	the man wearing blue t-shirt	fall18	fall	1
+when does the fall happen ?	daytime	fall18	fall	2
+when does the fighting happen ?	unknown	fall18	fall	2
+does the video happen night-time ?	no	fall18	fall	2
+does the video happen daytime ?	yes	fall18	fall	2
+where does the fall happen ?	indoor	fall18	fall	3
+where does the assault happen ?	unknown	fall18	fall	3
+does the video happen outdoor ?	no	fall18	fall	3
+does the video happen indoor ?	yes	fall18	fall	3
+does the video have fall ?	yes	fall19	fall	0
+does the video have assault ?	no	fall19	fall	0
+what is the man wearing black t-shirt doing ?	falling	fall19	fall	0
+what is the man wearing white t-shirt doing?	unknown	fall19	fall	0
+who is falling  ?	the man wearing black t-shirt	fall19	fall	1
+who is shooting ?	unknown	fall19	fall	1
+who is opening the gate ?	unknown	fall19	fall	1
+who hold a bottle ?	unknown	fall19	fall	1
+when does the fall happen ?	night-time	fall19	fall	2
+when does the fight happen ?	unknown	fall19	fall	2
+does the video happen night-time ?	yes	fall19	fall	2
+does the video happen daytime ?	no	fall19	fall	2
+where does the fall happen ?	indoor	fall19	fall	3
+where does the assault happen ?	unknown	fall19	fall	3
+does the video happen outdoor ?	no	fall19	fall	3
+does the video happen outdoor ?	yes	fall19	fall	3
+where does the man fall ?	ground	fall19	fall	3
+does the video have fall ?	yes	fall20	fall	0
+does the video have assault ?	no	fall20	fall	0
+what is the man wearing black shirt doing ?	falling	fall20	fall	0
+what is the man wearing blue shirt doing?	unknown	fall20	fall	0
+who is falling ?	the man wearing black shirt	fall20	fall	1
+who is shooting ?	unknown	fall20	fall	1
+who is holding a bottle ?	unknown	fall20	fall	1
+when does the fall happen ?	night-time	fall20	fall	2
+when does the assault happen ?	unknown	fall20	fall	2
+does the video happen daytime ?	no	fall20	fall	2
+does the video happen night-time ?	no	fall20	fall	2
+where does the fall happen ?	outdoor	fall20	fall	3
+where does the fight happen ?	unknown	fall20	fall	3
+does the video happen indoor ?	no	fall20	fall	3
+does the video happen outdoor ?	yes	fall20	fall	3
+where does the man fall ?	staircase	fall20	fall	3
+does the video have fight ?	yes	fight15	fight	0
+does the video have the shooting ?	no	fight15	fight	0
+what is the man wearing white t-shirt doing ?	fighting	fight15	fight	0
+what is the man wearing blue t-shirt doing?	unknown	fight15	fight	0
+who is fighting ?	the man wearing white t-shirt	fight15	fight	1
+who is shooting ?	unknown	fight15	fight	1
+when does the fight happen ?	night-time	fight15	fight	2
+when does the shooting happen ?	unknown	fight15	fight	2
+does the video happen daytime ?	no	fight15	fight	2
+does the video happen night-time ?	no	fight15	fight	2
+where does the fight happen ?	outdoor	fight15	fight	3
+where does the fall happen ?	unknown	fight15	fight	3
+does the video happen indoor ?	no	fight15	fight	3
+does the video happen outdoor ?	yes	fight15	fight	3
+does the video have fight ?	yes	fight16	fight	0
+does the video have fall ?	no	fight16	fight	0
+what is the man wearing black suit doing ?	fighting	fight16	fight	0
+what is the man wearing black hat doing ?	fighting	fight16	fight	0
+what is the man wearing blue t-shirt doing?	unknown	fight16	fight	0
+what is the woman wearing green skirt doing?	unknown	fight16	fight	0
+who is fighting ?	the man wearing black t-shirt	fight16	fight	1
+who is assaulting ?	unknown	fight16	fight	1
+who hit by hand ?	the man wearing black hat	fight16	fight	1
+who has a rod ?	unknown	fight16	fight	1
+who is standing by the door ?	the man wearing black suit	fight16	fight	1
+who is standing by a car ?	the man wearing black hat	fight16	fight	1
+when does the fight happen ?	daytime	fight16	fight	2
+when does the shooting happen ?	unknown	fight16	fight	2
+does the video happen night-time ?	no	fight16	fight	2
+does the video happen daytime ?	yes	fight16	fight	2
+where does the fight happen ?	indoor	fight16	fight	3
+where does the shooting happen ?	unknown	fight16	fight	3
+does the video happen outdoor ?	no	fight16	fight	3
+does the video happen indoor ?	yes	fight16	fight	3
+does the video have fight ?	yes	fight17	fight	0
+does the video have fall ?	no	fight17	fight	0
+what is the man wearing gray t-shirt doing ?	fighting	fight17	fight	0
+what is the man wearing black t-shirt doing ?	fighting	fight17	fight	0
+what is the man wearing blue t-shirt doing?	unknown	fight17	fight	0
+what is the woman wearing red skirt doing?	unknown	fight17	fight	0
+who is fighting ?	the man wearing black t-shirt	fight17	fight	1
+who is shooting ?	unknown	fight17	fight	1
+when does the fight happen ?	night-time	fight17	fight	2
+when does the assault happen ?	unknown	fight17	fight	2
+does the video happen daytime ?	no	fight17	fight	2
+does the video happen night-time ?	yes	fight17	fight	2
+where does the fight happen ?	indoor	fight17	fight	3
+where does the shooting happen ?	unknown	fight17	fight	3
+does the video happen outdoor ?	no	fight17	fight	3
+does the video happen indoor ?	yes	fight17	fight	3
+does the video have fight ?	yes	fight18	fight	0
+does the video have shooting  ?	no	fight18	fight	0
+what is the man wearing blue t-shirt doing ?	fighting	fight18	fight	0
+what is the man wearing black t-shirt doing ?	fighting	fight18	fight	0
+what is the woman wearing blue skirt doing?	unknown	fight18	fight	0
+what is the man wearing pink t-shirt doing?	unknown	fight18	fight	0
+does the video have assault ?	yes	fight18	fight	0
+who is fighting ?	the man wearing blue t-shirt	fight18	fight	1
+who is shooting ?	unknown	fight18	fight	1
+when does the fight happen ?	night-time	fight18	fight	2
+when does the shooting happen ?	unknown	fight18	fight	2
+does the video happen daytime ?	no	fight18	fight	2
+does the video happen night-time ?	yes	fight18	fight	2
+where does the fight happen ?	indoor	fight18	fight	3
+where does the assault happen ?	indoor	fight18	fight	3
+does the video happen outdoor ?	no	fight18	fight	3
+does the video happen indoor ?	yes	fight18	fight	3
+does the video have fight ?	yes	fight19	fight	0
+does the video have fall ?	no	fight19	fight	0
+what is the man wearing white t-shirt doing ?	fighting	fight19	fight	0
+what is the man wearing black t-shirt doing ?	fighting	fight19	fight	0
+what is the man without clothes doing?	unknown	fight19	fight	0
+what is the man wearing blue pants doing?	unknown	fight19	fight	0
+who is fighting ?	the man wearing black t-shirt	fight19	fight	0
+what is the man wearing blue shirt doing ?	stop two man	fight19	fight	0
+who is shooting ?	unknown	fight19	fight	1
+who hit by hand ?	the man wearing white t-shirt	fight19	fight	1
+who is standing by a car ?	unknown	fight19	fight	1
+when does the fight happen ?	night-time	fight19	fight	2
+when does the shooting happen ?	unknown	fight19	fight	2
+does the video happen daytime ?	no	fight19	fight	2
+does the video happen night-time ?	yes	fight19	fight	2
+where does the fight happen ?	indoor	fight19	fight	3
+where does the assault happen ?	unknown	fight19	fight	3
+does the video happen outdoor ?	no	fight19	fight	3
+does the video happen indoor ?	yes	fight19	fight	3
+does the video have fight ?	yes	fight20	fight	0
+does the video have shooting ?	no	fight20	fight	0
+what is the man wearing blue pants doing ?	fighting	fight20	fight	0
+what is the man wearing black pants doing ?	fighting	fight20	fight	0
+what is the man wearing black t-shirt doing?	unknown	fight20	fight	0
+what is the man wearing white hat doing?	unknown	fight20	fight	0
+who is fighting ?	the man wearing white pants	fight20	fight	1
+who is shooting ?	unknown	fight20	fight	1
+who hit by hand ?	the man wearing white pants	fight20	fight	1
+who has a gun ?	unknown	fight20	fight	1
+when does the fight happen ?	daytime	fight20	fight	2
+when does the assault happen ?	unknown	fight20	fight	2
+does the video happen night-time ?	no	fight20	fight	2
+does the video happen daytime ?	yes	fight20	fight	2
+where does the fight happen ?	outdoor	fight20	fight	3
+where does the fall happen ?	unknown	fight20	fight	3
+does the video happen indoor ?	no	fight20	fight	3
+does the video happen outdoor ?	yes	fight20	fight	3
+does the video have shoot ?	yes	shoot15	shoot	0
+does the video have fall ?	no	shoot15	shoot	0
+what is the man wearing whtie t-shirt doing ?	shooting	shoot15	shoot	0
+what is the man wearing blue pants doing?	unknown	shoot15	shoot	0
+who is shooting ?	the man wearing white t-shirt	shoot15	shoot	1
+who is fighting ?	unknown	shoot15	shoot	1
+who has a gun ?	the man wearing white t-shirt	shoot15	shoot	1
+who has a rod ?	unknown	shoot15	shoot	1
+when does the shooting happen ?	daytime	shoot15	shoot	2
+when does the fight happen ?	unknown	shoot15	shoot	2
+does the video happen night-time ?	no	shoot15	shoot	2
+does the video happen daytime ?	yes	shoot15	shoot	2
+where does the shooting happen ?	outdoor	shoot15	shoot	3
+where does the assault happen ?	unknown	shoot15	shoot	3
+does the video happen indoor ?	no	shoot15	shoot	3
+does the video happen outdoor ?	yes	shoot15	shoot	3
+does the video have shoot ?	yes	shoot16	shoot	0
+does the video have fall ?	no	shoot16	shoot	0
+what is the man wearing black t-shirt doing ?	shooting	shoot16	shoot	0
+what is the man wearing gray pants doing ?	lying	shoot16	shoot	0
+what is the woman wearing pink t-shirt doing?	unknown	shoot16	shoot	0
+what is the woman wearing sleeveless t-shirt doing?	unknown	shoot16	shoot	0
+who is shooting ?	the man wearing black t-shirt	shoot16	shoot	1
+who is fighting ?	unknown	shoot16	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot16	shoot	1
+who holds a box ?	unknown	shoot16	shoot	1
+who is standing by a car ?	the man wearing black t-shirt	shoot16	shoot	1
+who is sitting on a chair ?	unknown	shoot16	shoot	1
+when does the shooting happen ?	night-time	shoot16	shoot	2
+when does the assault happen ?	unknown	shoot16	shoot	2
+does the video happen daytime ?	no	shoot16	shoot	2
+does the video happen night-time ?	yes	shoot16	shoot	2
+where does the shooting happen ?	indoor	shoot16	shoot	3
+where does the fall happen ?	unknown	shoot16	shoot	3
+does the video happen outdoor ?	no	shoot16	shoot	3
+does the video happen indoor ?	yes	shoot16	shoot	3
+does the video have shoot ?	yes	shoot17	shoot	0
+does the video have fight ?	no	shoot17	shoot	0
+what is the man wearing black t-shirt doing ?	shooting	shoot17	shoot	0
+what is the woman wearing white t-shirt doing?	unknown	shoot17	shoot	0
+who is shooting ?	the man wearing black t-shirt	shoot17	shoot	1
+who is fighting ?	unknown	shoot17	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot17	shoot	1
+who hit by hand ?	unknown	shoot17	shoot	1
+who is standing ?	the man wearing black t-shirt	shoot17	shoot	1
+who is standing by a car ?	unknown	shoot17	shoot	1
+when does the shooting happen ?	night-time	shoot17	shoot	2
+when does the assault happen ?	unknown	shoot17	shoot	2
+does the video happen daytime ?	no	shoot17	shoot	2
+does the video happen night-time ?	yes	shoot17	shoot	2
+where does the shooting happen ?	indoor	shoot17	shoot	3
+where does the fall happen ?	unknown	shoot17	shoot	3
+does the video happen outdoor ?	no	shoot17	shoot	3
+does the video happen indoor ?	yes	shoot17	shoot	3
+does the video have shoot ?	yes	shoot18	shoot	0
+does the video have assault ?	no	shoot18	shoot	0
+does the video have gun ?	yes	shoot18	shoot	0
+does the video have fall ?	yes	shoot18	shoot	0
+who has a rod ?	unknown	shoot18	shoot	1
+when does the shooting happen ?	daytime	shoot18	shoot	2
+when does the fall happen ?	unknown	shoot18	shoot	2
+does the video happen night-time ?	no	shoot18	shoot	2
+does the video happen daytime ?	yes	shoot18	shoot	2
+where does the shooting happen ?	indoor	shoot18	shoot	3
+where does the assault happen ?	unknown	shoot18	shoot	3
+does the video happen outdoor ?	no	shoot18	shoot	3
+does the video happen indoor ?	yes	shoot18	shoot	3
+does the video have shoot ?	yes	shoot19	shoot	0
+does the video have assault ?	no	shoot19	shoot	0
+what is the man wearing black pants doing ?	shooted	shoot19	shoot	0
+what is the man wearing white t-shirt doing ?	shooting	shoot19	shoot	0
+what is the woman wearing blue skirt doing?	unknown	shoot19	shoot	0
+what is the woman sitting on the ground doing?	unknown	shoot19	shoot	0
+does the video have fall ?	yes	shoot19	shoot	0
+who is shooting ?	the man wearing white t-shirt	shoot19	shoot	1
+who is assaulting ?	unknown	shoot19	shoot	1
+who has a gun ?	the man wearing white t-shirt	shoot19	shoot	1
+who has a rod ?	unknown	shoot19	shoot	1
+who is standing by a car ?	unknown	shoot19	shoot	1
+when does the shooting happen ?	daytime	shoot19	shoot	2
+when does the fight happen ?	unknown	shoot19	shoot	2
+does the video happen night-time ?	no	shoot19	shoot	2
+does the video happen daytime ?	yes	shoot19	shoot	2
+where does the man fall ?	ground	shoot19	shoot	3
+where does the fight happen ?	outdoor	shoot19	shoot	3
+where does the fight happen ?	unknown	shoot19	shoot	3
+does the video happen indoor ?	no	shoot19	shoot	3
+does the video happen outdoor ?	yes	shoot19	shoot	3
+does the video have shoot ?	yes	shoot20	shoot	0
+does the video have assault ?	no	shoot20	shoot	0
+what is the man wearing white helmet doing ?	shooting	shoot20	shoot	0
+what is the man wearing black t-shirt doing ?	shooting	shoot20	shoot	0
+what is the man without clothes doing?	unknown	shoot20	shoot	0
+what is the man wearing gray t-shirt doing?	unknown	shoot20	shoot	0
+who is shooting ?	the man wearing white helmet	shoot20	shoot	1
+who is assaulting ?	unknown	shoot20	shoot	1
+who has a gun ?	the man wearing black t-shirt	shoot20	shoot	1
+who has a rod ?	unknown	shoot20	shoot	1
+who is opening the gate ?	unknown	shoot20	shoot	1
+who is opening the door ?	the man wearing white t-shirt	shoot20	shoot	1
+when does the shooting happen ?	daytime	shoot20	shoot	2
+when does the assault happen ?	unknown	shoot20	shoot	2
+does the video happen night-time ?	no	shoot20	shoot	2
+does the video happen daytime ?	yes	shoot20	shoot	2
+where does the shooting happen ?	indoor	shoot20	shoot	3
+where does the assault happen ?	unknown	shoot20	shoot	3
+does the video happen outdoor ?	no	shoot20	shoot	3
+does the video happen indoor ?	yes	shoot20	shoot	3

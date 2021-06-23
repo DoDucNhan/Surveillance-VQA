@@ -1,0 +1,131 @@
+question	answer	video_id	action
+does the video have assault ?	yes	assault15	assault
+does the video have shooting ?	no	assault15	assault
+what is the man wearing black shirt doing ?	assaulting	assault15	assault
+what is the man wearing white t-shirt doing?	unknown	assault15	assault
+does the video have assault ?	yes	assault16	assault
+does the video have falling ?	no	assault16	assault
+what is the man wearing a white t-shirt doing ?	assaulting	assault16	assault
+what is the man wearing pink shirt doing?	unknown	assault16	assault
+does the video have assault ?	yes	assault17	assault
+does the video have shooting?	no	assault17	assault
+what is the man wearing black pants doing ?	assaulting	assault17	assault
+what is the man wearing nothing doing ?	assaulted	assault17	assault
+what is the man wearing helmet doing?	unknown	assault17	assault
+what is the man wearing white hat doing?	unknown	assault17	assault
+does the video have assault ?	yes	assault18	assault
+does the video have fighting?	no	assault18	assault
+what is the man wearing black pants doing ?	assaulting	assault18	assault
+what is the woman wearing green skirt doing ?	assaulted	assault18	assault
+what is the man wearing white t-shirt doing?	unknown	assault18	assault
+what is the man wearing green t-shirt doing?	unknown	assault18	assault
+does the video have assault ?	yes	assault19	assault
+does the video have fighting?	no	assault19	assault
+what is the man wearing black t-shirt doing ?	assaulting	assault19	assault
+what is the man wearing sleeveless shirt doing ?	falling	assault19	assault
+what is the man wearing blue t-shirt doing?	unknown	assault19	assault
+what is the woman wearing green skirt doing?	unknown	assault19	assault
+does the video have assault ?	yes	assault20	assault
+does the video have shooting ?	no	assault20	assault
+what is the man wearing white sleeveless shirt doing ?	assaulting	assault20	assault
+what is the man wearing white hat doing?	unknown	assault20	assault
+does the video have fall ?	yes	fall15	fall
+does the video have assault ?	no	fall15	fall
+what is the man wearing blue t-shirt doing ?	falling	fall15	fall
+what is the man wearing short pants doing ?	falling	fall15	fall
+what is the man wearing an helmet doing?	unknown	fall15	fall
+what is the woman wearing green skirt doing?	unknown	fall15	fall
+does the video have fall ?	yes	fall16	fall
+does the video have shooting ?	no	fall16	fall
+what is the man wearing white t-shirt doing ?	falling	fall16	fall
+what is the man wearing gray pants doing ?	falling	fall16	fall
+what is the man wearing blue t-shirt doing?	unknown	fall16	fall
+what is the woman wearing white hat doing?	unknown	fall16	fall
+does the video have fall ?	yes	fall17	fall
+does the video have fighting ?	no	fall17	fall
+what is the woman wearing blue t-shirt doing ?	falling	fall17	fall
+what is the woman wearing sleeveless pink shirt doing ?	falling	fall17	fall
+what is the man wearing black t-shirt doing?	unknown	fall17	fall
+what is the man wearing white t-shirt doing?	unknown	fall17	fall
+does the video have fall ?	yes	fall18	fall
+does the video have shooting ?	no	fall18	fall
+what is the man wearing blue t-shirt doing ?	falling	fall18	fall
+what is the man wearing gray pants doing ?	falling	fall18	fall
+what is the man wearing white hat doing?	unknown	fall18	fall
+what is the woman wearing blue t-shirt doing?	unknown	fall18	fall
+does the video have fall ?	yes	fall19	fall
+does the video have assault ?	no	fall19	fall
+what is the man wearing black t-shirt doing ?	falling	fall19	fall
+what is the man wearing white t-shirt doing?	unknown	fall19	fall
+does the video have fall ?	yes	fall20	fall
+does the video have assault ?	no	fall20	fall
+what is the man wearing black shirt doing ?	falling	fall20	fall
+what is the man wearing blue shirt doing?	unknown	fall20	fall
+does the video have fight ?	yes	fight15	fight
+does the video have the shooting ?	no	fight15	fight
+what is the man wearing white t-shirt doing ?	fighting	fight15	fight
+what is the man wearing blue t-shirt doing?	unknown	fight15	fight
+does the video have fight ?	yes	fight16	fight
+does the video have fall ?	no	fight16	fight
+what is the man wearing black suit doing ?	fighting	fight16	fight
+what is the man wearing black hat doing ?	fighting	fight16	fight
+what is the man wearing blue t-shirt doing?	unknown	fight16	fight
+what is the woman wearing green skirt doing?	unknown	fight16	fight
+does the video have fight ?	yes	fight17	fight
+does the video have fall ?	no	fight17	fight
+what is the man wearing gray t-shirt doing ?	fighting	fight17	fight
+what is the man wearing black t-shirt doing ?	fighting	fight17	fight
+what is the man wearing blue t-shirt doing?	unknown	fight17	fight
+what is the woman wearing red skirt doing?	unknown	fight17	fight
+does the video have fight ?	yes	fight18	fight
+does the video have shooting  ?	no	fight18	fight
+what is the man wearing blue t-shirt doing ?	fighting	fight18	fight
+what is the man wearing black t-shirt doing ?	fighting	fight18	fight
+what is the woman wearing blue skirt doing?	unknown	fight18	fight
+what is the man wearing pink t-shirt doing?	unknown	fight18	fight
+does the video have assault ?	yes	fight18	fight
+does the video have fight ?	yes	fight19	fight
+does the video have fall ?	no	fight19	fight
+what is the man wearing white t-shirt doing ?	fighting	fight19	fight
+what is the man wearing black t-shirt doing ?	fighting	fight19	fight
+what is the man without clothes doing?	unknown	fight19	fight
+what is the man wearing blue pants doing?	unknown	fight19	fight
+who is fighting ?	the man wearing black t-shirt	fight19	fight
+what is the man wearing blue shirt doing ?	stop two man	fight19	fight
+does the video have fight ?	yes	fight20	fight
+does the video have shooting ?	no	fight20	fight
+what is the man wearing blue pants doing ?	fighting	fight20	fight
+what is the man wearing black pants doing ?	fighting	fight20	fight
+what is the man wearing black t-shirt doing?	unknown	fight20	fight
+what is the man wearing white hat doing?	unknown	fight20	fight
+does the video have shoot ?	yes	shoot15	shoot
+does the video have fall ?	no	shoot15	shoot
+what is the man wearing whtie t-shirt doing ?	shooting	shoot15	shoot
+what is the man wearing blue pants doing?	unknown	shoot15	shoot
+does the video have shoot ?	yes	shoot16	shoot
+does the video have fall ?	no	shoot16	shoot
+what is the man wearing black t-shirt doing ?	shooting	shoot16	shoot
+what is the man wearing gray pants doing ?	lying	shoot16	shoot
+what is the woman wearing pink t-shirt doing?	unknown	shoot16	shoot
+what is the woman wearing sleeveless t-shirt doing?	unknown	shoot16	shoot
+does the video have shoot ?	yes	shoot17	shoot
+does the video have fight ?	no	shoot17	shoot
+what is the man wearing black t-shirt doing ?	shooting	shoot17	shoot
+what is the woman wearing white t-shirt doing?	unknown	shoot17	shoot
+does the video have shoot ?	yes	shoot18	shoot
+does the video have assault ?	no	shoot18	shoot
+does the video have gun ?	yes	shoot18	shoot
+does the video have fall ?	yes	shoot18	shoot
+does the video have shoot ?	yes	shoot19	shoot
+does the video have assault ?	no	shoot19	shoot
+what is the man wearing black pants doing ?	shooted	shoot19	shoot
+what is the man wearing white t-shirt doing ?	shooting	shoot19	shoot
+what is the woman wearing blue skirt doing?	unknown	shoot19	shoot
+what is the woman sitting on the ground doing?	unknown	shoot19	shoot
+does the video have fall ?	yes	shoot19	shoot
+does the video have shoot ?	yes	shoot20	shoot
+does the video have assault ?	no	shoot20	shoot
+what is the man wearing white helmet doing ?	shooting	shoot20	shoot
+what is the man wearing black t-shirt doing ?	shooting	shoot20	shoot
+what is the man without clothes doing?	unknown	shoot20	shoot
+what is the man wearing gray t-shirt doing?	unknown	shoot20	shoot
