@@ -87,7 +87,7 @@ Sử dụng lệnh sau để huấn luyện mô hình
 - `result` là thư mục để lưu kết quả.
 
 ## Kiểm tra kết quả huấn luyện trên từng loại câu hỏi.
-Tập dữ liệu của nhóm có thể chia làm bốn loại dựa trên nội dung câu hỏi giành cho video, bao gồm `action, human, location, time`. Sử dụng lệnh sau để đánh giá mô hình trên từng loại câu hỏi.
+Tập dữ liệu của nhóm có thể chia làm bốn loại dựa trên nội dung câu hỏi giành cho video, bao gồm `action, human, location, time`. Sử dụng lệnh sau để đánh giá mô hình trên từng loại câu hỏi. Những file hỏi-đáp như `Action_frameqa_question.csv, Human_frameqa_question.csv, ...` được chia ra từ file `Test_frameqa_question.csv` để tiện cho việc kiểm tra kết quả trên từng loại câu hỏi.
 1. Tiền xử lý đặc trưng câu hỏi
 ```
 python -m scripts.build_snn_questionType -t frameqa -o cache/snn -q Action
