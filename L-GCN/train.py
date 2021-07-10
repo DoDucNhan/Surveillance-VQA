@@ -97,6 +97,7 @@ def train(model: nn.Module, loader: DataLoader, criterion: nn.Module, optimzier:
 
     writer.add_scalar(f'Train/{losses.name}', losses.avg, epoch)
     writer.add_scalar(f'Train/{result.name}', result.avg, epoch)
+    logger.info(f'Train/{result.name}: {result.avg}')
 
 
 @torch.no_grad()
@@ -187,6 +188,7 @@ def test(model: nn.Module, loader: DataLoader, criterion: nn.Module, epoch: int)
 
     writer.add_scalar(f'Test/{losses.name}', losses.avg, epoch)
     writer.add_scalar(f'Test/{result.name}', result.avg, epoch)
+    logger.info(f'Test/{result.name}: {result.avg}')
 
     if TASK == 'youtube2text':
         avg_per_class = 0

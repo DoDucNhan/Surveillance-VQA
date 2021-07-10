@@ -94,8 +94,8 @@ def test(model: nn.Module, loader: DataLoader, criterion: nn.Module, qType: str)
 
         compute_score(losses, result, out, answer, loss)
         
-        print(out)
-        print(answer)
+        # print(out)
+        # print(answer)
 
 
     writer.add_scalar(f'Test/{losses.name}', losses.avg, 1)
