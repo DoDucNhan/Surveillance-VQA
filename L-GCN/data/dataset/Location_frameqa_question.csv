@@ -1,80 +1,91 @@
-question	answer	video_id	action	class
-where does the assaulting happen ?	outdoor	assault15	assault	3
-does the video happen indoor ?	no	assault15	assault	3
-does the video happen outdoor ?	yes	assault15	assault	3
-where does the assaulting happen ?	outdoor	assault16	assault	3
-does the video happen indoor ?	no	assault16	assault	3
-does the video happen indoor ?	yes	assault16	assault	3
-where does the assaulting happen ?	indoor	assault17	assault	3
-does the video happen outdoor ?	no	assault17	assault	3
-does the video happen indoor ?	yes	assault17	assault	3
-where does the assaulting happen ?	outdoor	assault18	assault	3
-does the video happen indoor ?	no	assault18	assault	3
-does the video happen outdoor ?	yes	assault18	assault	3
-where does the assaulting happen ?	outdoor	assault19	assault	3
-does the video happen indoor ?	no	assault19	assault	3
-does the video happen outdoor ?	yes	assault19	assault	3
-where does the assaulting happen ?	outdoor	assault20	assault	3
-does the video happen indoor ?	no	assault20	assault	3
-does the video happen outdoor ?	yes	assault20	assault	3
-where does the man fall ?	ground	fall15	fall	3
-where does the fall happen ?	indoor	fall15	fall	3
-does the video happen outdoor ?	no	fall15	fall	3
-does the video happen indoor ?	yes	fall15	fall	3
-where does the man fall ?	ground	fall16	fall	3
-where does the fall happen ?	indoor	fall16	fall	3
-does the video happen outdoor ?	no	fall16	fall	3
-does the video happen indoor  ?	yes	fall16	fall	3
-where does the fall happen ?	outdoor	fall17	fall	3
-does the video happen indoor ?	no	fall17	fall	3
-does the video happen outdoor ?	yes	fall17	fall	3
-where does the woman fall ?	ground	fall17	fall	3
-where does the fall happen ?	indoor	fall18	fall	3
-does the video happen outdoor ?	no	fall18	fall	3
-does the video happen indoor ?	yes	fall18	fall	3
-where does the fall happen ?	indoor	fall19	fall	3
-does the video happen outdoor ?	no	fall19	fall	3
-does the video happen outdoor ?	yes	fall19	fall	3
-where does the man fall ?	ground	fall19	fall	3
-where does the fall happen ?	outdoor	fall20	fall	3
-does the video happen indoor ?	no	fall20	fall	3
-does the video happen outdoor ?	yes	fall20	fall	3
-where does the man fall ?	staircase	fall20	fall	3
-where does the fight happen ?	outdoor	fight15	fight	3
-does the video happen indoor ?	no	fight15	fight	3
-does the video happen outdoor ?	yes	fight15	fight	3
-where does the fight happen ?	indoor	fight16	fight	3
-does the video happen outdoor ?	no	fight16	fight	3
-does the video happen indoor ?	yes	fight16	fight	3
-where does the fight happen ?	indoor	fight17	fight	3
-does the video happen outdoor ?	no	fight17	fight	3
-does the video happen indoor ?	yes	fight17	fight	3
-where does the fight happen ?	indoor	fight18	fight	3
-where does the assault happen ?	indoor	fight18	fight	3
-does the video happen outdoor ?	no	fight18	fight	3
-does the video happen indoor ?	yes	fight18	fight	3
-where does the fight happen ?	indoor	fight19	fight	3
-does the video happen outdoor ?	no	fight19	fight	3
-does the video happen indoor ?	yes	fight19	fight	3
-where does the fight happen ?	outdoor	fight20	fight	3
-does the video happen indoor ?	no	fight20	fight	3
-does the video happen outdoor ?	yes	fight20	fight	3
-where does the shooting happen ?	outdoor	shoot15	shoot	3
-does the video happen indoor ?	no	shoot15	shoot	3
-does the video happen outdoor ?	yes	shoot15	shoot	3
-where does the shooting happen ?	indoor	shoot16	shoot	3
-does the video happen outdoor ?	no	shoot16	shoot	3
-does the video happen indoor ?	yes	shoot16	shoot	3
-where does the shooting happen ?	indoor	shoot17	shoot	3
-does the video happen outdoor ?	no	shoot17	shoot	3
-does the video happen indoor ?	yes	shoot17	shoot	3
-where does the shooting happen ?	indoor	shoot18	shoot	3
-does the video happen outdoor ?	no	shoot18	shoot	3
-does the video happen indoor ?	yes	shoot18	shoot	3
-where does the man fall ?	ground	shoot19	shoot	3
-where does the fight happen ?	outdoor	shoot19	shoot	3
-does the video happen indoor ?	no	shoot19	shoot	3
-does the video happen outdoor ?	yes	shoot19	shoot	3
-where does the shooting happen ?	indoor	shoot20	shoot	3
-does the video happen outdoor ?	no	shoot20	shoot	3
-does the video happen indoor ?	yes	shoot20	shoot	3
+id	question	answer	video_id	action	qa_class	unknown
+207	where does the assaulting happen?	outdoor	assault15	assault	3	0
+208	does the video happen indoor?	no	assault15	assault	3	1
+209	does the video happen outdoor?	yes	assault15	assault	3	0
+218	where does the assaulting happen?	outdoor	assault16	assault	3	0
+219	where does the shooting happen?	unknown	assault16	assault	3	1
+220	does the video happen indoor?	no	assault16	assault	3	1
+221	does the video happen indoor?	yes	assault16	assault	3	0
+231	where does the assaulting happen?	indoor	assault17	assault	3	0
+232	where does the shooting happen?	unknown	assault17	assault	3	1
+233	does the video happen outdoor?	no	assault17	assault	3	1
+234	does the video happen indoor?	yes	assault17	assault	3	0
+244	where does the assaulting happen?	outdoor	assault18	assault	3	0
+245	does the video happen indoor?	no	assault18	assault	3	1
+246	does the video happen outdoor?	yes	assault18	assault	3	0
+257	where does the assaulting happen?	outdoor	assault19	assault	3	0
+258	where does the shooting happen?	unknown	assault19	assault	3	1
+259	does the video happen indoor?	no	assault19	assault	3	1
+260	does the video happen outdoor?	yes	assault19	assault	3	0
+268	where does the assaulting happen?	outdoor	assault20	assault	3	0
+269	where does the falling happen?	unknown	assault20	assault	3	1
+270	does the video happen indoor?	no	assault20	assault	3	1
+271	does the video happen outdoor?	yes	assault20	assault	3	0
+471	where does the man fall?	ground	fall15	fall	3	0
+472	where does the fall happen?	indoor	fall15	fall	3	0
+473	does the video happen outdoor?	no	fall15	fall	3	1
+474	does the video happen indoor?	yes	fall15	fall	3	0
+484	where does the man fall?	ground	fall16	fall	3	0
+485	where does the fall happen?	indoor	fall16	fall	3	0
+486	does the video happen outdoor?	no	fall16	fall	3	1
+487	does the video happen indoor ?	yes	fall16	fall	3	0
+498	where does the fall happen?	outdoor	fall17	fall	3	0
+499	does the video happen indoor?	no	fall17	fall	3	1
+500	does the video happen outdoor?	yes	fall17	fall	3	0
+501	where does the woman fall?	ground	fall17	fall	3	0
+512	where does the fall happen?	indoor	fall18	fall	3	0
+513	where does the assault happen?	unknown	fall18	fall	3	1
+514	does the video happen outdoor?	no	fall18	fall	3	1
+515	does the video happen indoor?	yes	fall18	fall	3	0
+524	where does the fall happen?	indoor	fall19	fall	3	0
+525	where does the assault happen?	unknown	fall19	fall	3	1
+526	does the video happen outdoor?	no	fall19	fall	3	1
+527	does the video happen outdoor?	yes	fall19	fall	3	0
+528	where does the man fall?	ground	fall19	fall	3	0
+538	where does the fall happen?	outdoor	fall20	fall	3	0
+539	where does the fight happen?	unknown	fall20	fall	3	1
+540	does the video happen indoor?	no	fall20	fall	3	1
+541	does the video happen outdoor?	yes	fall20	fall	3	0
+542	where does the man fall?	staircase	fall20	fall	3	0
+739	where does the fight happen?	outdoor	fight15	fight	3	0
+740	does the video happen indoor?	no	fight15	fight	3	1
+741	does the video happen outdoor?	yes	fight15	fight	3	0
+754	where does the fight happen?	indoor	fight16	fight	3	0
+755	does the video happen outdoor?	no	fight16	fight	3	1
+756	does the video happen indoor?	yes	fight16	fight	3	0
+766	where does the fight happen?	indoor	fight17	fight	3	0
+767	does the video happen outdoor?	no	fight17	fight	3	1
+768	does the video happen indoor?	yes	fight17	fight	3	0
+779	where does the fight happen?	indoor	fight18	fight	3	0
+780	where does the assault happen?	indoor	fight18	fight	3	0
+781	does the video happen outdoor?	no	fight18	fight	3	1
+782	does the video happen indoor?	yes	fight18	fight	3	0
+795	where does the fight happen?	indoor	fight19	fight	3	0
+796	does the video happen outdoor?	no	fight19	fight	3	1
+797	does the video happen indoor?	yes	fight19	fight	3	0
+809	where does the fight happen?	outdoor	fight20	fight	3	0
+810	where does the fall happen?	unknown	fight20	fight	3	1
+811	does the video happen indoor?	no	fight20	fight	3	1
+812	does the video happen outdoor?	yes	fight20	fight	3	0
+1005	where does the shooting happen?	outdoor	shoot15	shoot	3	0
+1006	does the video happen indoor?	no	shoot15	shoot	3	1
+1007	does the video happen outdoor?	yes	shoot15	shoot	3	0
+1019	where does the shooting happen?	indoor	shoot16	shoot	3	0
+1020	where does the fall happen?	unknown	shoot16	shoot	3	1
+1021	does the video happen outdoor?	no	shoot16	shoot	3	1
+1022	does the video happen indoor?	yes	shoot16	shoot	3	0
+1032	where does the shooting happen?	indoor	shoot17	shoot	3	0
+1033	where does the fall happen?	unknown	shoot17	shoot	3	1
+1034	does the video happen outdoor?	no	shoot17	shoot	3	1
+1035	does the video happen indoor?	yes	shoot17	shoot	3	0
+1044	where does the shooting happen?	indoor	shoot18	shoot	3	0
+1045	does the video happen outdoor?	no	shoot18	shoot	3	1
+1046	does the video happen indoor?	yes	shoot18	shoot	3	0
+1060	where does the man fall?	ground	shoot19	shoot	3	0
+1061	where does the fight happen?	outdoor	shoot19	shoot	3	0
+1062	where does the fight happen?	unknown	shoot19	shoot	3	1
+1063	does the video happen indoor?	no	shoot19	shoot	3	1
+1064	does the video happen outdoor?	yes	shoot19	shoot	3	0
+1076	where does the shooting happen?	indoor	shoot20	shoot	3	0
+1077	does the video happen outdoor?	no	shoot20	shoot	3	1
+1078	does the video happen indoor?	yes	shoot20	shoot	3	0

@@ -1,73 +1,82 @@
-question	answer	video_id	action	class
-when does the assaulting happen ?	daytime	assault15	assault	2
-does the video happen night-time ?	no	assault15	assault	2
-does the video happen daytime ?	yes	assault15	assault	2
-when does the assaulting happen ?	daytime	assault16	assault	2
-does the video happen night-time ?	no	assault16	assault	2
-does the video happen daytime ?	yes	assault16	assault	2
-when does the assaulting happen ?	night-time	assault17	assault	2
-does the video happen daytime ?	no	assault17	assault	2
-does the video happen night-time ?	yes	assault17	assault	2
-when does the assaulting happen ?	daytime	assault18	assault	2
-does the video happen night-time ?	no	assault18	assault	2
-does the video happen daytime ?	yes	assault18	assault	2
-when does the assaulting happen ?	daytime	assault19	assault	2
-does the video happen night-time ?	no	assault19	assault	2
-does the video happen daytime ?	yes	assault19	assault	2
-when does the assaulting happen ?	night-time	assault20	assault	2
-does the video happen daytime ?	no	assault20	assault	2
-does the video happen night-time ?	yes	assault20	assault	2
-when does the fall happen ?	daytime	fall15	fall	2
-does the video happen night-time ?	no	fall15	fall	2
-does the video happen daytime ?	yes	fall15	fall	2
-when does the fall happen ?	daytime	fall16	fall	2
-does the video happen night-time ?	no	fall16	fall	2
-does the video happen daytime ?	yes	fall16	fall	2
-when does the fall happen ?	daytime	fall17	fall	2
-does the video happen night-time ?	no	fall17	fall	2
-does the video happen daytime ?	yes	fall17	fall	2
-when does the fall happen ?	daytime	fall18	fall	2
-does the video happen night-time ?	no	fall18	fall	2
-does the video happen daytime ?	yes	fall18	fall	2
-when does the fall happen ?	night-time	fall19	fall	2
-does the video happen night-time ?	yes	fall19	fall	2
-does the video happen daytime ?	no	fall19	fall	2
-when does the fall happen ?	night-time	fall20	fall	2
-does the video happen daytime ?	no	fall20	fall	2
-does the video happen night-time ?	no	fall20	fall	2
-when does the fight happen ?	night-time	fight15	fight	2
-does the video happen daytime ?	no	fight15	fight	2
-does the video happen night-time ?	no	fight15	fight	2
-when does the fight happen ?	daytime	fight16	fight	2
-does the video happen night-time ?	no	fight16	fight	2
-does the video happen daytime ?	yes	fight16	fight	2
-when does the fight happen ?	night-time	fight17	fight	2
-does the video happen daytime ?	no	fight17	fight	2
-does the video happen night-time ?	yes	fight17	fight	2
-when does the fight happen ?	night-time	fight18	fight	2
-does the video happen daytime ?	no	fight18	fight	2
-does the video happen night-time ?	yes	fight18	fight	2
-when does the fight happen ?	night-time	fight19	fight	2
-does the video happen daytime ?	no	fight19	fight	2
-does the video happen night-time ?	yes	fight19	fight	2
-when does the fight happen ?	daytime	fight20	fight	2
-does the video happen night-time ?	no	fight20	fight	2
-does the video happen daytime ?	yes	fight20	fight	2
-when does the shooting happen ?	daytime	shoot15	shoot	2
-does the video happen night-time ?	no	shoot15	shoot	2
-does the video happen daytime ?	yes	shoot15	shoot	2
-when does the shooting happen ?	night-time	shoot16	shoot	2
-does the video happen daytime ?	no	shoot16	shoot	2
-does the video happen night-time ?	yes	shoot16	shoot	2
-when does the shooting happen ?	night-time	shoot17	shoot	2
-does the video happen daytime ?	no	shoot17	shoot	2
-does the video happen night-time ?	yes	shoot17	shoot	2
-when does the shooting happen ?	daytime	shoot18	shoot	2
-does the video happen night-time ?	no	shoot18	shoot	2
-does the video happen daytime ?	yes	shoot18	shoot	2
-when does the shooting happen ?	daytime	shoot19	shoot	2
-does the video happen night-time ?	no	shoot19	shoot	2
-does the video happen daytime ?	yes	shoot19	shoot	2
-when does the shooting happen ?	daytime	shoot20	shoot	2
-does the video happen night-time ?	no	shoot20	shoot	2
-does the video happen daytime ?	yes	shoot20	shoot	2
+id	question	answer	video_id	action	qa_class	unknown
+204	when does the assaulting happen?	daytime	assault15	assault	2	0
+205	does the video happen night-time?	no	assault15	assault	2	1
+206	does the video happen daytime?	yes	assault15	assault	2	0
+214	when does the assaulting happen?	daytime	assault16	assault	2	0
+215	when does the fighting happen?	unknown	assault16	assault	2	1
+216	does the video happen night-time?	no	assault16	assault	2	1
+217	does the video happen daytime?	yes	assault16	assault	2	0
+228	when does the assaulting happen?	night-time	assault17	assault	2	0
+229	does the video happen daytime?	no	assault17	assault	2	1
+230	does the video happen night-time?	yes	assault17	assault	2	0
+241	when does the assaulting happen?	daytime	assault18	assault	2	0
+242	does the video happen night-time?	no	assault18	assault	2	1
+243	does the video happen daytime?	yes	assault18	assault	2	0
+254	when does the assaulting happen?	daytime	assault19	assault	2	0
+255	does the video happen night-time?	no	assault19	assault	2	1
+256	does the video happen daytime?	yes	assault19	assault	2	0
+265	when does the assaulting happen?	night-time	assault20	assault	2	0
+266	does the video happen daytime?	no	assault20	assault	2	1
+267	does the video happen night-time?	yes	assault20	assault	2	0
+467	when does the fall happen?	daytime	fall15	fall	2	0
+468	when does the fight happen?	unknown	fall15	fall	2	1
+469	does the video happen night-time?	no	fall15	fall	2	1
+470	does the video happen daytime?	yes	fall15	fall	2	0
+481	when does the fall happen?	daytime	fall16	fall	2	0
+482	does the video happen night-time?	no	fall16	fall	2	1
+483	does the video happen daytime?	yes	fall16	fall	2	0
+495	when does the fall happen?	daytime	fall17	fall	2	0
+496	does the video happen night-time?	no	fall17	fall	2	1
+497	does the video happen daytime?	yes	fall17	fall	2	0
+509	when does the fall happen?	daytime	fall18	fall	2	0
+510	does the video happen night-time?	no	fall18	fall	2	1
+511	does the video happen daytime?	yes	fall18	fall	2	0
+520	when does the fall happen?	night-time	fall19	fall	2	0
+521	when does the fight happen?	unknown	fall19	fall	2	1
+522	does the video happen night-time?	yes	fall19	fall	2	0
+523	does the video happen daytime?	no	fall19	fall	2	1
+535	when does the fall happen?	night-time	fall20	fall	2	0
+536	does the video happen daytime?	no	fall20	fall	2	1
+537	does the video happen night-time?	no	fall20	fall	2	1
+735	when does the fight happen?	night-time	fight15	fight	2	0
+736	when does the shooting happen?	unknown	fight15	fight	2	1
+737	does the video happen daytime?	no	fight15	fight	2	1
+738	does the video happen night-time?	no	fight15	fight	2	1
+750	when does the fight happen?	daytime	fight16	fight	2	0
+751	when does the shooting happen?	unknown	fight16	fight	2	1
+752	does the video happen night-time?	no	fight16	fight	2	1
+753	does the video happen daytime?	yes	fight16	fight	2	0
+763	when does the fight happen?	night-time	fight17	fight	2	0
+764	does the video happen daytime?	no	fight17	fight	2	1
+765	does the video happen night-time?	yes	fight17	fight	2	0
+776	when does the fight happen?	night-time	fight18	fight	2	0
+777	does the video happen daytime?	no	fight18	fight	2	1
+778	does the video happen night-time?	yes	fight18	fight	2	0
+791	when does the fight happen?	night-time	fight19	fight	2	0
+792	when does the shooting happen?	unknown	fight19	fight	2	1
+793	does the video happen daytime?	no	fight19	fight	2	1
+794	does the video happen night-time?	yes	fight19	fight	2	0
+805	when does the fight happen?	daytime	fight20	fight	2	0
+806	when does the assault happen?	unknown	fight20	fight	2	1
+807	does the video happen night-time?	no	fight20	fight	2	1
+808	does the video happen daytime?	yes	fight20	fight	2	0
+1002	when does the shooting happen?	daytime	shoot15	shoot	2	0
+1003	does the video happen night-time?	no	shoot15	shoot	2	1
+1004	does the video happen daytime?	yes	shoot15	shoot	2	0
+1016	when does the shooting happen?	night-time	shoot16	shoot	2	0
+1017	does the video happen daytime?	no	shoot16	shoot	2	1
+1018	does the video happen night-time?	yes	shoot16	shoot	2	0
+1029	when does the shooting happen?	night-time	shoot17	shoot	2	0
+1030	does the video happen daytime?	no	shoot17	shoot	2	1
+1031	does the video happen night-time?	yes	shoot17	shoot	2	0
+1040	when does the shooting happen?	daytime	shoot18	shoot	2	0
+1041	when does the fall happen?	unknown	shoot18	shoot	2	1
+1042	does the video happen night-time?	no	shoot18	shoot	2	1
+1043	does the video happen daytime?	yes	shoot18	shoot	2	0
+1056	when does the shooting happen?	daytime	shoot19	shoot	2	0
+1057	when does the fight happen?	unknown	shoot19	shoot	2	1
+1058	does the video happen night-time?	no	shoot19	shoot	2	1
+1059	does the video happen daytime?	yes	shoot19	shoot	2	0
+1073	when does the shooting happen?	daytime	shoot20	shoot	2	0
+1074	does the video happen night-time?	no	shoot20	shoot	2	1
+1075	does the video happen daytime?	yes	shoot20	shoot	2	0
